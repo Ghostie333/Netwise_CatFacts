@@ -9,3 +9,5 @@
 {"Fact":"Many cats cannot properly digest cow\u0027s milk. Milk and milk products give them diarrhea.","Length":87}
 {"Fact":"The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.","Length":84}
 {"Fact":"Despite imagery of cats happily drinking milk from saucers, studies indicate that cats are actually lactose intolerant and should avoid it entirely.","Length":148}
+{"Fact":"Cat\u0027s urine glows under a black light.","Length":38}
+{"Fact":"A cat can spend five or more hours a day grooming himself.","Length":58}
