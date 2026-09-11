@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\style.css
+wwwroot\script.js
+C:\Users\kamil\Desktop\NetwiseApp\NetwiseApp\wwwroot\index.html
+C:\Users\kamil\Desktop\NetwiseApp\NetwiseApp\wwwroot\style.css
+C:\Users\kamil\Desktop\NetwiseApp\NetwiseApp\wwwroot\script.js
